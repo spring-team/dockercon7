@@ -1,5 +1,7 @@
 // Make new mistakes as fast as you can.
 
+// Make new mistakes as fast as you can.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
